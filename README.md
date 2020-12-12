@@ -37,8 +37,7 @@ For example this is the setup for my Computer
 For this tutorial, we will use the gym library developed by OpenAI. It provides environments (simple games) to develop reinforcement learning algorithms.
 
 The environment we will be using is CarRacing-v0 ( https://gym.openai.com/envs/CarRacing-v0/ ). It is about driving a car on a circuit, the objective being to move forward while staying on the track, which contains many turns. The input to the algorithm (the state provided by the environment) is only the image displayed by the environment: we see the car, and the terrain around it.
-![title](Images\car-racing.png)
-
+![alt text](https://github.com/ManaliSharma/Autonomous_Vehicle/blob/main/Images/car-racing.png)
 The idea is to drive the car by analyzing this image.
 
 We are going to use this library in a roundabout way: It is designed for reinforcement learning. The objective is in principle to use the rewards (rewards) provided by the environment to learn the optimal strategy without user action. Here we will not be using these rewards.
