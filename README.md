@@ -28,7 +28,7 @@ Follow the instructions on http://pytorch.org/ for a deep guide.
 - Install Python 3.5+
 - It is recommended to manage PyTorch with Anaconda. Please install Anaconda
 - Install PyTorch following instructions at https://pytorch.org/get-started/locally/
-![alt text](https://github.com/[ManaliSharma]/[Autonomous_Vehicle]/blob/[main]/Images/Pytorch_Installation.png?raw=true)
+![alt text](https://github.com/ManaliSharma/Autonomous_Vehicle/blob/main/Images/Pytorch_Installation.png)
 For example this is the setup for my Computer
 > pip install torch==1.7.0+cpu torchvision==0.8.1+cpu torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
 
