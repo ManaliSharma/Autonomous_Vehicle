@@ -103,18 +103,18 @@ For your code to run smoothly there are some python scripts in (folder modules) 
 - README.md
 > Umbrella_Academy_INFO7390_Project
 - INFO7390_Notebooks
-    > - sdc_gym (gym environment)
+    - sdc_gym (gym environment)
     > - modules (py files)
         - SL_model.py
         - SL_data.py
-    > - Basics_of_Convolutional_Neural_Network.ipynb
-    > - Self Driving Car using Supervised Learning
-    > - Basics_of_Deep_Q_Learning
-    > - Self Driving Car using Reinforcement Learning 
-    > - Supervised_IL_train_images
-    > - Supervised_IL_test_images
-    > - Supervised_IL_models
-    > - Images (All images used in project)
+    - Basics_of_Convolutional_Neural_Network.ipynb
+    - Self Driving Car using Supervised Learning
+    - Basics_of_Deep_Q_Learning
+    - Self Driving Car using Reinforcement Learning 
+    - Supervised_IL_train_images
+    - Supervised_IL_test_images
+    - Supervised_IL_models
+    - Images (All images used in project)
    
 
 ## How to Run
