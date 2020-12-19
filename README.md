@@ -104,7 +104,7 @@ For your code to run smoothly there are some python scripts in (folder modules) 
 > Umbrella_Academy_INFO7390_Project
 - INFO7390_Notebooks
     - sdc_gym (gym environment)
-    > - modules (py files)
+    - modules (py files)
         - SL_model.py
         - SL_data.py
     - Basics_of_Convolutional_Neural_Network.ipynb
