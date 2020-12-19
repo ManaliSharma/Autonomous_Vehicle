@@ -96,17 +96,16 @@ In order to begin with this project, we suggest you to make two different virtua
 ## Folder Structure
 
 - INFO7390_SelfDrivingCar
--
 - README.md
 > Umbrella_Academy_INFO7390_Project
 - INFO7390_Notebooks
-> - Basics_of_Convolutional_Neural_Network.ipynb
-> - Self Driving Car using Supervised Learning
-> - Basics_of_Deep_Q_Learning
-> - Self Driving Car using Reinforcement Learning 
-  > - Images (All images used in project)
-  > - JSON and CSV Files (All the scraped and generated CSV and JSON files)
-  > - LSTM Files 
+    > - Basics_of_Convolutional_Neural_Network.ipynb
+    > - Self Driving Car using Supervised Learning
+    > - Basics_of_Deep_Q_Learning
+    > - Self Driving Car using Reinforcement Learning 
+      > - Images (All images used in project)
+      > - JSON and CSV Files (All the scraped and generated CSV and JSON files)
+      > - LSTM Files 
 
 ## How to Run
 - Clone the repository in your local disk.
