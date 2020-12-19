@@ -105,8 +105,8 @@ For your code to run smoothly there are some python scripts in (folder modules) 
 - INFO7390_Notebooks
     > - sdc_gym (gym environment)
     > - modules (py files)
-        >- SL_model.py
-        >- SL_data.py
+        - SL_model.py
+        - SL_data.py
     > - Basics_of_Convolutional_Neural_Network.ipynb
     > - Self Driving Car using Supervised Learning
     > - Basics_of_Deep_Q_Learning
