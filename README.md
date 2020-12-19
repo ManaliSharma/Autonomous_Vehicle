@@ -103,9 +103,9 @@ In order to begin with this project, we suggest you to make two different virtua
     > - Self Driving Car using Supervised Learning
     > - Basics_of_Deep_Q_Learning
     > - Self Driving Car using Reinforcement Learning 
-      > -- Images (All images used in project)
-      > -- JSON and CSV Files (All the scraped and generated CSV and JSON files)
-      > -- LSTM Files 
+      >> - Images (All images used in project)
+      >> - JSON and CSV Files (All the scraped and generated CSV and JSON files)
+      >> - LSTM Files 
 
 ## How to Run
 - Clone the repository in your local disk.
